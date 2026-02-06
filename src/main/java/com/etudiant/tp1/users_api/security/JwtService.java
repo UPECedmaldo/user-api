@@ -1,4 +1,4 @@
-﻿package com.etudiant.tp1.users_api.security;
+package com.etudiant.tp1.users_api.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
